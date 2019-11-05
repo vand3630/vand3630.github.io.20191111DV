@@ -1,4 +1,4 @@
-# Jekyll Netlify Boilerplate
+# Devin Vandenbrink 
 
 *Note: Check out my [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate). It does pretty much the same as this project but uses the [Eleventy](https://www.11ty.io/) static site generator. It's fast, flexible and doesn't require Ruby.*
 

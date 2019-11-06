@@ -1,12 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to my Portfolio!
 permalink: /
 section: home
-intro_paragraph: >
-  [Devin Vandenbrink](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: Here you will see some work from one of the best upcoming UX designers around.
 ---
+

@@ -23,6 +23,8 @@ body {
 }
 .container {
  width: 1280px;
+  min-height: 500px;
+  background: #fff;
   margin:70px auto; 
   display: flex;
   float-direction: row;

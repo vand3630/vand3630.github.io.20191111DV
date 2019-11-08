@@ -8,7 +8,7 @@ intro_paragraph: >-
   Communications and am currently working towards a Bachelor of Design degree at
   Laurier for User Experience Design.
 ---
-<img src="img_2150.jpg" class="me"></img>
+<img src=“/assets/img/uploads/img_2150.jpg”>class="me"</img>
 I grew up near London in a small town of Aylmer, Ontario. While growing up there I created a passion for Hockey playing for many teams such as the Aylmer Flames, St.Thomas stars and many more. Playing hockey made me learn many life skills such as teamwork, communication and playing for others. 
 
 ### A heading
